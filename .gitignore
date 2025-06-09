@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.swp
+
+#server.js file for local dev
+server.js
+.vercel
+
+.tmp/
+# SpecStory explanation file
+.specstory/.what-is-this.md
