@@ -1,22 +1,25 @@
 {
-  "name": "rcfeed-backend-v2",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FocusoftHQ/rcfeed-backend-v2.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FocusoftHQ/rcfeed-backend-v2/issues"
-  },
-  "homepage": "https://github.com/FocusoftHQ/rcfeed-backend-v2#readme",
-  "description": "",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+    "name": "rcfeed-backend-v2",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FocusoftHQ/rcfeed-backend-v2.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/FocusoftHQ/rcfeed-backend-v2/issues"
+    },
+    "homepage": "https://github.com/FocusoftHQ/rcfeed-backend-v2#readme",
+    "description": "",
+    "dependencies": {
+        "express": "^5.1.0"
+    },
+    "devDependencies": {
+        "prettier": "3.2.5"
+    }
 }
