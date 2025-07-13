@@ -1,6 +1,6 @@
 {
     "name": "focusapi-template",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "main": "index.js",
     "type": "module",
     "scripts": {
@@ -13,7 +13,7 @@
         "type": "git",
         "url": "git+https://github.com/FocusoftHQ/focusapi-template.git"
     },
-    "author": "",
+    "author": "FocusoftHQ",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/FocusoftHQ/focusapi-template/issues"

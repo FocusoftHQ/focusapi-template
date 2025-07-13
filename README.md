@@ -6,15 +6,15 @@ This is a minimal, production-ready JavaScript backend server template built wit
 
 ## Features
 
-- 🚀 **Express 5.x** - Latest version of the popular Node.js framework
-- 📦 **ES Modules** - Modern JavaScript module system
-- 🔒 **Security** - Pre-configured with Helmet.js for security headers
-- 🌐 **CORS** - Cross-Origin Resource Sharing enabled
-- 📝 **Logging** - HTTP request logging with Morgan
-- 🔧 **Environment Variables** - dotenv configuration
-- 💅 **Code Formatting** - Prettier configuration included
-- 🔄 **Hot Reload** - Nodemon for development
-- ☁️ **Vercel Ready** - Deployment configuration included
+-   🚀 **Express 5.x** - Latest version of the popular Node.js framework
+-   📦 **ES Modules** - Modern JavaScript module system
+-   🔒 **Security** - Pre-configured with Helmet.js for security headers
+-   🌐 **CORS** - Cross-Origin Resource Sharing enabled
+-   📝 **Logging** - HTTP request logging with Morgan
+-   🔧 **Environment Variables** - dotenv configuration
+-   💅 **Code Formatting** - Prettier configuration included
+-   🔄 **Hot Reload** - Nodemon for development
+-   ☁️ **Vercel Ready** - Deployment configuration included
 
 ## Project Structure
 
@@ -34,23 +34,26 @@ focusapi-template/
 
 ## Prerequisites
 
-- Node.js (v14 or higher recommended)
-- npm or yarn
+-   Node.js (v14 or higher recommended)
+-   npm or yarn
 
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/FocusoftHQ/focusapi-template.git
 cd focusapi-template
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Create a `.env` file in the root directory (optional):
+
 ```bash
 touch .env
 ```
@@ -70,10 +73,10 @@ app.listen(PORT, () => {
 
 ## Available Scripts
 
-- `npm start` - Start the production server
-- `npm run dev` - Start development server with hot reload
-- `npm run format` - Format code with Prettier
-- `npm test` - Run tests (not configured yet)
+-   `npm start` - Start the production server
+-   `npm run dev` - Start development server with hot reload
+-   `npm run format` - Format code with Prettier
+-   `npm test` - Run tests (not configured yet)
 
 ## Environment Variables
 
@@ -86,8 +89,8 @@ NODE_ENV=development
 
 ## API Endpoints
 
-- `GET /` - Serves the welcome page
-- Add your custom routes in `app.js`
+-   `GET /` - Serves the welcome page
+-   Add your custom routes in `app.js`
 
 ## Middleware Stack
 
@@ -110,8 +113,9 @@ This template is configured for easy deployment to Vercel:
 3. Follow the prompts
 
 The `vercel.json` configuration is already set up to:
-- Build from `src/app.js`
-- Route all requests through the Express app
+
+-   Build from `src/app.js`
+-   Route all requests through the Express app
 
 ## Contributing
 
