@@ -63,16 +63,16 @@ Read file: src/public/index.html
         
 | File | Line | Match |
 |------|------|-------|
-| `file:///Users/ausaf/Documents/neuron-x/rcfeed-backend-v2/src/app.js` | Lundefined | `import 'dotenv/config'` |
-| `file:///Users/ausaf/Documents/neuron-x/rcfeed-backend-v2/src/app.js` | L43 | `details: process.env.NODE_ENV === 'development' ? err.stack : undefined,` |
-| `file:///Users/ausaf/Documents/neuron-x/rcfeed-backend-v2/package-lock.json` | L12 | `"dotenv": "^17.2.0",` |
-| `file:///Users/ausaf/Documents/neuron-x/rcfeed-backend-v2/package-lock.json` | L279 | `"node_modules/dotenv": {` |
-| `file:///Users/ausaf/Documents/neuron-x/rcfeed-backend-v2/package-lock.json` | L281 | `"resolved": "https://registry.npmjs.org/dotenv/-/dotenv-17.2.0.tgz",` |
-| `file:///Users/ausaf/Documents/neuron-x/rcfeed-backend-v2/package-lock.json` | L288 | `"url": "https://dotenvx.com"` |
-| `file:///Users/ausaf/Documents/neuron-x/rcfeed-backend-v2/README.md` | L9 | `const PORT = process.env.PORT || 5001` |
-| `file:///Users/ausaf/Documents/neuron-x/rcfeed-backend-v2/package.json` | L24 | `"dotenv": "^17.2.0",` |
-| `file:///Users/ausaf/Documents/neuron-x/rcfeed-backend-v2/.gitignore` | L3 | `# Environment variables` |
-| `file:///Users/ausaf/Documents/neuron-x/rcfeed-backend-v2/.gitignore` | L4 | `.env` |
+| `file:///Users/ausaf/Documents/neuron-x/focusapi-template/src/app.js` | Lundefined | `import 'dotenv/config'` |
+| `file:///Users/ausaf/Documents/neuron-x/focusapi-template/src/app.js` | L43 | `details: process.env.NODE_ENV === 'development' ? err.stack : undefined,` |
+| `file:///Users/ausaf/Documents/neuron-x/focusapi-template/package-lock.json` | L12 | `"dotenv": "^17.2.0",` |
+| `file:///Users/ausaf/Documents/neuron-x/focusapi-template/package-lock.json` | L279 | `"node_modules/dotenv": {` |
+| `file:///Users/ausaf/Documents/neuron-x/focusapi-template/package-lock.json` | L281 | `"resolved": "https://registry.npmjs.org/dotenv/-/dotenv-17.2.0.tgz",` |
+| `file:///Users/ausaf/Documents/neuron-x/focusapi-template/package-lock.json` | L288 | `"url": "https://dotenvx.com"` |
+| `file:///Users/ausaf/Documents/neuron-x/focusapi-template/README.md` | L9 | `const PORT = process.env.PORT || 5001` |
+| `file:///Users/ausaf/Documents/neuron-x/focusapi-template/package.json` | L24 | `"dotenv": "^17.2.0",` |
+| `file:///Users/ausaf/Documents/neuron-x/focusapi-template/.gitignore` | L3 | `# Environment variables` |
+| `file:///Users/ausaf/Documents/neuron-x/focusapi-template/.gitignore` | L4 | `.env` |
 
 </details>
 

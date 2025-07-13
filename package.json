@@ -1,5 +1,5 @@
 {
-    "name": "rcfeed-backend-v2",
+    "name": "focusapi-template",
     "version": "1.0.0",
     "main": "index.js",
     "type": "module",
@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FocusoftHQ/rcfeed-backend-v2.git"
+        "url": "git+https://github.com/FocusoftHQ/focusapi-template.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/FocusoftHQ/rcfeed-backend-v2/issues"
+        "url": "https://github.com/FocusoftHQ/focusapi-template/issues"
     },
-    "homepage": "https://github.com/FocusoftHQ/rcfeed-backend-v2#readme",
+    "homepage": "https://github.com/FocusoftHQ/focusapi-template#readme",
     "description": "",
     "dependencies": {
         "cors": "^2.8.5",
